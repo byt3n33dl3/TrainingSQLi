@@ -1,5 +1,5 @@
 <?php
-// Placeholder for login logic
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // In a real application, you would validate the credentials against a database
     $username = $_POST['username'];
