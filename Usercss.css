@@ -8,6 +8,11 @@ body {
     margin: 0;
 }
 
+.img {
+    width:px;
+    height:px;
+}
+
 .login-container {
     background-color: #ffffff;
     padding: 20px;
